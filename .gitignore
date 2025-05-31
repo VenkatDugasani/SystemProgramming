@@ -1,0 +1,10 @@
+*.out
+*.exe
+*.o
+*.dSYM/
+newhello.txt
+01_create_file
+02_read_file
+03_create_dir
+04_check_file_exists
+05_rename_file
