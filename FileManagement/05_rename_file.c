@@ -1,4 +1,3 @@
-/* Question: Develop a C program to rename a file from "oldname.txt" to "newname.txt"?*/
 #include <stdio.h>
 int main(){
     const char* old_name = "hello.txt";
